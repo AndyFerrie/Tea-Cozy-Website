@@ -5,6 +5,7 @@ html {
     background-color: black;
     opacity: 0.9;
     box-sizing: border-box;
+    text-align: center;
 }
 
 nav {
@@ -16,6 +17,7 @@ nav {
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
     border-bottom: 1px solid seashell;
+    background-color: black;
 }
 
 header img {
@@ -27,9 +29,33 @@ header img {
 body {
     margin: 0;
     padding: 0;
+    padding-top: 70;
 }
 
 .header-links a {
     margin: auto 10px;
     color: seashell;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mission {
+    top: 70;
+    height: 700px;
+    width: 1200px;
+    background-image: url(/images/img-mission-background.webp);
+    background-origin: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mission .title {
+    background-color: black;
+    width: 100%;
 }
