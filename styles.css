@@ -4,7 +4,6 @@ html {
     color: seashell;
     background-color: black;
     opacity: 0.9;
-    box-sizing: border-box;
     text-align: center;
 }
 
@@ -39,7 +38,6 @@ body {
 
 .container {
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
 }
@@ -59,3 +57,27 @@ body {
     background-color: black;
     width: 100%;
 }
+
+.featured-tea {
+    width: 1000px;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.featured-tea img {
+    height: 200px;
+    width: 300px;
+    padding: 15px;
+}
+
+figcaption {
+    font-weight: bold;
+}
+
+
+
+
