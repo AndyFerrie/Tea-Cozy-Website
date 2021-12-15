@@ -1,6 +1,6 @@
 # CodeCademy Project: Tea Cozy
 
-This is my solution to the Tea Cozy challenge in CodeCademy's Learn Intermediate CSS Course
+This is my solution to the Tea Cozy challenge in CodeCademy's Learn Intermediate CSS Course.
 
 ## Table of contents
 
