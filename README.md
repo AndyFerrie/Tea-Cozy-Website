@@ -27,7 +27,12 @@ We will provide a design spec and image assets to help you along the way. A desi
 
 ### Screenshot
 
+Design Spec:
+
 ![Design Spec](images/img-tea-cozy-redline.webp)
+
+My Solution: 
+
 ![Final Result](images/screenshot.png)
 
 ### Links
